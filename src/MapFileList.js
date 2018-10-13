@@ -503,6 +503,22 @@ module.exports = {
         {
           fileName: "1957526.data",
           name: "(E2) Sandswept Isles"
+        },
+		{
+          fileName: "2004704.data",
+          name: "(E3) Domain of Kourna"
+        },
+		{
+          fileName: "2005467.data",
+          name: "(E3) Crystal Oasis"
+        },
+		{
+          fileName: "2044320.data",
+          name: "(E4) Jahai Bluffs"
+        },
+		{
+          fileName: "2044502.data",
+          name: "(E4) The Mists"
         }
       ]
     },
@@ -683,6 +699,10 @@ module.exports = {
         {
           fileName: "1905889.data",
           name: "Twilight Oasis Fractal"
+        },
+		{
+          fileName: "2005713.data",
+          name: "Deepstone Fractal"
         }
       ]
     },
@@ -712,6 +732,10 @@ module.exports = {
         {
           fileName: "1906329.data",
           name: "(W5) Hall of Chains"
+        },
+		{
+          fileName: "2045250.data",
+          name: "(W6) Mythwright Gambit"
         }
       ]
     },
